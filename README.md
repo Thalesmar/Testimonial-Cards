@@ -20,7 +20,7 @@ The primary goal is to practice **CSS layout and positioning** techniques by des
 
 ## 📸 Screenshot
 
-![Testimonial Cards Screenshot](./screeshot/screesho_19.png) <!-- Update this path if needed -->
+![Testimonial Cards Screenshot](/screeshot/screesho_19.png) <!-- Update this path if needed -->
 
 ---
 
@@ -31,8 +31,4 @@ The primary goal is to practice **CSS layout and positioning** techniques by des
 
 ---
 
-## 🚀 Getting Started
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git

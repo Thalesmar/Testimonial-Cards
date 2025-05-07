@@ -1,0 +1,42 @@
+
+Testimonial Cards Project
+Overview
+This project involves creating a collection of testimonial cards—quotes or statements from satisfied customers or users. These cards are commonly used on websites to build credibility and trust with potential clients or visitors.
+
+The main focus of the project is to learn and practice CSS layout and positioning techniques by building and styling testimonial components in different ways.
+
+Objectives
+Create multiple testimonial card layouts.
+
+Understand and implement different CSS positioning strategies (relative, absolute, fixed, etc.).
+
+Practice layout techniques using Flexbox, Grid, and other modern CSS tools.
+
+Improve HTML and CSS structuring for reusable UI components.
+
+Features
+Custom-designed testimonial cards with varying layout styles.
+
+Responsive design considerations.
+
+Use of clean and semantic HTML.
+
+Focus on visual hierarchy and usability.
+
+Getting Started
+Clone the repository.
+
+Open the HTML file in your browser to see the testimonial cards in action.
+
+Modify the CSS and HTML files to experiment with different layouts and positioning.
+
+Technologies Used
+HTML5
+
+CSS3 (Flexbox, Grid, Positioning)
+
+Screenshots
+![Testimonial Cards Screenshot](./assets/screenshot.png)
+
+License
+This project is for educational purposes.

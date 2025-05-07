@@ -6,7 +6,7 @@ This project is a front-end exercise focused on building **testimonial cards**, 
 
 The primary goal is to practice **CSS layout and positioning** techniques by designing and styling multiple variations of testimonial cards.
 
-> 📌 [View the original project on roadmap.sh](https://roadmap.sh/projects/testimonial-cards)
+> 📌 View the original project on roadmap.sh [https://roadmap.sh/projects/testimonial-cards](https://roadmap.sh/projects/testimonial-cards)
 
 ---
 

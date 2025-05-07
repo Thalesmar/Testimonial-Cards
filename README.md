@@ -20,7 +20,7 @@ The primary goal is to practice **CSS layout and positioning** techniques by des
 
 ## 📸 Screenshot
 
-![Testimonial Cards Screenshot](/screeshot/Screenshot_19.png) <!-- Update this path if needed -->
+![Testimonial Cards Screenshot](README.md/screenshot/Screenshot.png) 
 
 ---
 
